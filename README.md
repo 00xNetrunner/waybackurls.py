@@ -1,6 +1,6 @@
 # Waybackurls 🕰️
 
-Waybackurls is a Python script that retrieves URLs from the Wayback Machine for one or more hosts. It allows you to search for URLs with or without subdomains and saves the results as JSON files. 📝
+Waybackurls is a Python script that retrieves URLs from the Wayback Machine for one or more hosts. It allows you to search for URLs with or without subdomains and saves the results as TEXT files. 📝
 
 ## Original Creator 🙌
 
